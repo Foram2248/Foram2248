@@ -54,7 +54,7 @@ I am a skilled **Software Developer** with a strong background in designing, dev
 
 ---
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://foram2248.github.io/my-3D-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://foram2248.github.io/my-3D-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foram-patel2248/)
 
 ---
