@@ -69,12 +69,21 @@ NLP project comparing BioBERT and ChatGPT in answering first-aid related questio
 
 ---
 
+
+## 📊 GitHub Statistics  
+
+![Foram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foram2248&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Foram2248&layout=compact&theme=radical)  
+
+---
+
 ## 📝 Future Goals  
 1. Advance my expertise in **Machine Learning**, **Generative AI**, and **MLOps**.  
 2. Build and deploy **real-world AI solutions** that create measurable impact.  
 3. Contribute to **open-source AI/ML projects**.  
 
 ---
+
 
 ## 🌍 Let's Connect  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:forampatel2248@gmail.com)  
