@@ -3,12 +3,12 @@
 </p>
 
 ## 🚀 About Me  
-I am a passionate **Machine Learning & AI Engineer** with a strong foundation in **Data Science**, **Deep Learning**, and **Generative AI** — built on top of 4+ years of **Software Development** expertise.  
+I am a passionate **Machine Learning & AI Developer** with a strong foundation in **Data Science**, **Machine Learning**, and **Generative AI** — built on top of 4+ years of **Software Development** expertise.  
 I hold a **Master's degree in Computer Science** and recently completed the **University of Toronto Machine Learning Software Foundations Program**.  
 My journey blends **full-stack development** skills with cutting-edge **ML/AI techniques** to create intelligent, scalable, and impactful solutions.  
 
 💡 **Career Focus:** Machine Learning • Deep Learning • Computer Vision • Generative AI • Data Analytics  
-🌍 **Open to:** AI/ML engineering roles • Research-driven collaborations • Relocation opportunities  
+🌍 **Open to:** AI/ML engineering roles • Research-driven collaborations 
 
 ---
 
